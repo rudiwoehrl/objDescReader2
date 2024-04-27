@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cantara" />
+      <option name="name" value="cantara" />
+      <option name="url" value="https://mvnrepo.cantara.no/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="openMind" />
+      <option name="name" value="openMind" />
+      <option name="url" value="https://repository.openmindonline.it/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="shibboleth" />
+      <option name="name" value="shibboleth" />
+      <option name="url" value="https://build.shibboleth.net/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifactory" />
+      <option name="name" value="artifactory" />
+      <option name="url" value="https://jaspersoft.jfrog.io/artifactory/third-party-ce-artifacts/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus" />
+      <option name="name" value="nexus" />
+      <option name="url" value="https://nexus.gsissc.myatos.net/repository/GH_DE_MUC_CYSP_DIRX_MAVEN2/" />
+    </remote-repository>
+  </component>
+</project>
